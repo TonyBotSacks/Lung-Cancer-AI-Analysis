@@ -1,1 +1,1 @@
-This is a decently acurate CNN model. It requires so fine tuning bit it is excellent with black and white x_ray images.
+This is a decently accurate CNN model. It requires some fine tuning but it is excellent with black and white x_ray images.
